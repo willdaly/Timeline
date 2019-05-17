@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+
+<MIDINameDocument>
+  <Author>Will Daly</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Strymon</Manufacturer>
+    <Model>Timeline</Model>
+    <CustomDeviceMode Name="Mode 1" >
+    <ChannelNameSetAssignments>
+      <ChannelNameSetAssign Channel="1" NameSet="patches" />
+      <ChannelNameSetAssign Channel="2" NameSet="patches" />
+      <ChannelNameSetAssign Channel="3" NameSet="patches" />
+      <ChannelNameSetAssign Channel="4" NameSet="patches" />
+      <ChannelNameSetAssign Channel="5" NameSet="patches" />
+      <ChannelNameSetAssign Channel="6" NameSet="patches" />
+      <ChannelNameSetAssign Channel="7" NameSet="patches" />
+      <ChannelNameSetAssign Channel="8" NameSet="patches" />
+      <ChannelNameSetAssign Channel="9" NameSet="patches" />
+      <ChannelNameSetAssign Channel="10" NameSet="patches" />
+      <ChannelNameSetAssign Channel="11" NameSet="patches" />
+      <ChannelNameSetAssign Channel="12" NameSet="patches" />
+      <ChannelNameSetAssign Channel="13" NameSet="patches" />
+      <ChannelNameSetAssign Channel="14" NameSet="patches" />
+      <ChannelNameSetAssign Channel="15" NameSet="patches" />
+      <ChannelNameSetAssign Channel="16" NameSet="patches" />
+    </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="patches" >
+			<AvailableForChannels>
+				<AvailableChannel Channel="1" Available="true" />
+				<AvailableChannel Channel="2" Available="true" />
+				<AvailableChannel Channel="3" Available="true" />
+				<AvailableChannel Channel="4" Available="true" />
+				<AvailableChannel Channel="5" Available="true" />
+				<AvailableChannel Channel="6" Available="true" />
+				<AvailableChannel Channel="7" Available="true" />
+				<AvailableChannel Channel="8" Available="true" />
+				<AvailableChannel Channel="9" Available="true" />
+				<AvailableChannel Channel="10" Available="true" />
+				<AvailableChannel Channel="11" Available="true" />
+				<AvailableChannel Channel="12" Available="true" />
+				<AvailableChannel Channel="13" Available="true" />
+				<AvailableChannel Channel="14" Available="true" />
+				<AvailableChannel Channel="15" Available="true" />
+				<AvailableChannel Channel="16" Available="true" />
+			</AvailableForChannels>
+      <PatchBank Name="A" >
+  			<MIDICommands>
+  				<ControlChange Control="0" Value="0" />
+  				<ControlChange Control="32" Value="0" />
+  			</MIDICommands>
+  			<PatchNameList>
+  				<Patch Number="001" Name="Mellow Digital" ProgramChange="0" />
+  				<Patch Number="002" Name="Sweet Sixteenth" ProgramChange="1" />
+  				<Patch Number="003" Name="Melt Away" ProgramChange="2" />
+  				<Patch Number="004" Name="BIT Clock" ProgramChange="3" />
+  				<Patch Number="005" Name="Soft Saw" ProgramChange="4" />
+  				<Patch Number="006" Name="Reversal" ProgramChange="5" />
+  				<Patch Number="007" Name="Panned Eights" ProgramChange="6" />
+  				<Patch Number="008" Name="Wowywowwowwow" ProgramChange="7" />
+  				<Patch Number="009" Name="Dirty Bucket" ProgramChange="8" />
+          <Patch Number="010" Name="Smeared Swell" ProgramChange="9" />
+          <Patch Number="011" Name="Square Cuts" ProgramChange="10" />
+          <Patch Number="012" Name="Dynamo" ProgramChange="11" />
+          <Patch Number="013" Name="Fizifths" ProgramChange="12" />
+          <Patch Number="014" Name="Saltwater Repeat" ProgramChange="13" />
+          <Patch Number="015" Name="QuarterRand" ProgramChange="14" />
+          <Patch Number="016" Name="PitchMod" ProgramChange="15" />
+          <Patch Number="017" Name="Dirty Slap" ProgramChange="16" />
+          <Patch Number="018" Name="Mirrors" ProgramChange="17" />
+          <Patch Number="019" Name="Dananana" ProgramChange="18" />
+          <Patch Number="020" Name="Dry Ice" ProgramChange="19" />
+          <Patch Number="021" Name="Trem Quarters" ProgramChange="20" />
+          <Patch Number="022" Name="10Bit" ProgramChange="21" />
+          <Patch Number="023" Name="Repetition" ProgramChange="22" />
+          <Patch Number="024" Name="Bright Bucket" ProgramChange="23" />
+          <Patch Number="025" Name="Verby" ProgramChange="24" />
+          <Patch Number="026" Name="Say What Again" ProgramChange="25" />
+          <Patch Number="027" Name="Emerging" ProgramChange="26" />
+          <Patch Number="028" Name="Ice Cloud" ProgramChange="27" />
+          <Patch Number="029" Name="DigiSlap" ProgramChange="28" />
+          <Patch Number="030" Name="Dusty Deck" ProgramChange="29" />
+          <Patch Number="31" Name="Q32" ProgramChange="30"/>
+          <Patch Number="32" Name="Turn Around" ProgramChange="31"/>
+          <Patch Number="33" Name="Dark Rhythm" ProgramChange="32"/>
+          <Patch Number="34" Name="Dual Dots" ProgramChange="33"/>
+          <Patch Number="35" Name="8Bit Vinyl" ProgramChange="34"/>
+          <Patch Number="36" Name="Tape Slap" ProgramChange="35"/>
+          <Patch Number="37" Name="2 to 1" ProgramChange="36"/>
+          <Patch Number="38" Name="Long Slice" ProgramChange="37"/>
+          <Patch Number="39" Name="Vibro Swell" ProgramChange="38"/>
+          <Patch Number="40" Name="Smear Dig" ProgramChange="39"/>
+          <Patch Number="41" Name="Debris" ProgramChange="40"/>
+          <Patch Number="42" Name="Dot Rhythm" ProgramChange="41"/>
+          <Patch Number="43" Name="World Series" ProgramChange="42"/>
+          <Patch Number="44" Name="Gouda" ProgramChange="43"/>
+          <Patch Number="45" Name="ModMode" ProgramChange="44"/>
+          <Patch Number="46" Name="Ice Organ" ProgramChange="45"/>
+          <Patch Number="47" Name="Whipped" ProgramChange="46"/>
+          <Patch Number="48" Name="Hold and Repeat" ProgramChange="47"/>
+          <Patch Number="49" Name="Trem Slap" ProgramChange="48"/>
+          <Patch Number="50" Name="ParaPan" ProgramChange="49"/>
+          <Patch Number="51" Name="Degraded" ProgramChange="50"/>
+          <Patch Number="52" Name="Intercom" ProgramChange="51"/>
+          <Patch Number="53" Name="Infinite Swell" ProgramChange="52"/>
+          <Patch Number="54" Name="Hi Ice" ProgramChange="53"/>
+          <Patch Number="55" Name="Wobble" ProgramChange="54"/>
+          <Patch Number="56" Name="Low Voltage" ProgramChange="55"/>
+          <Patch Number="57" Name="Quatro" ProgramChange="56"/>
+          <Patch Number="58" Name="Pick Attack" ProgramChange="57"/>
+          <Patch Number="059" Name="Fresh Tape" ProgramChange="58" />
+          <Patch Number="060" Name="Basic Rev" ProgramChange="59" />
+          <Patch Number="061" Name="Infinimod" ProgramChange="60" />
+          <Patch Number="062" Name="Dualie" ProgramChange="61" />
+          <Patch Number="063" Name="Mostly" ProgramChange="62" />
+          <Patch Number="064" Name="Squash" ProgramChange="63" />
+          <Patch Number="065" Name="Dark Analog" ProgramChange="64" />
+          <Patch Number="066" Name="Champy" ProgramChange="65" />
+          <Patch Number="066" Name="Vintage Square" ProgramChange="66" />
+          <Patch Number="067" Name="Sweeper" ProgramChange="67" />
+          <Patch Number="068" Name="Berliner" ProgramChange="68" />
+          <Patch Number="069" Name="Swellback" ProgramChange="69" />
+          <Patch Number="070" Name="Under Bias" ProgramChange="70" />
+          <Patch Number="071" Name="Zombie" ProgramChange="71" />
+          <Patch Number="072" Name="Kiss My Grits" ProgramChange="72" />
+          <Patch Number="073" Name="Minor 7th" ProgramChange="73" />
+          <Patch Number="074" Name="Dirigible" ProgramChange="74" />
+          <Patch Number="075" Name="Inward" ProgramChange="75" />
+          <Patch Number="076" Name="Steep Ramp" ProgramChange="76" />
+          <Patch Number="077" Name="Ducky" ProgramChange="77" />
+          <Patch Number="078" Name="Ice Wonder" ProgramChange="78" />
+          <Patch Number="079" Name="the6th" ProgramChange="79" />
+          <Patch Number="080" Name="High Voltage" ProgramChange="80" />
+          <Patch Number="081" Name="DualMod" ProgramChange="81" />
+          <Patch Number="082" Name="High Pass" ProgramChange="82" />
+          <Patch Number="083" Name="Crinkly" ProgramChange="83" />
+          <Patch Number="084" Name="PrettyPrettyGood" ProgramChange="84" />
+          <Patch Number="085" Name="Decimated" ProgramChange="85" />
+          <Patch Number="086" Name="Disappear" ProgramChange="86" />
+          <Patch Number="087" Name="Mountain Dougie" ProgramChange="87" />
+          <Patch Number="088" Name="Downer" ProgramChange="88" />
+          <Patch Number="089" Name="Gently" ProgramChange="89" />
+          <Patch Number="090" Name="Gritty Slap" ProgramChange="90" />
+          <Patch Number="091" Name="EEplex" ProgramChange="91" />
+          <Patch Number="092" Name="Spazzy" ProgramChange="92" />
+          <Patch Number="093" Name="Marigold" ProgramChange="93" />
+          <Patch Number="094" Name="DynaFilt" ProgramChange="94" />
+          <Patch Number="095" Name="EchoChamber" ProgramChange="95" />
+          <Patch Number="096" Name="FauxSpring" ProgramChange="96" />
+          <Patch Number="097" Name="RevSolo" ProgramChange="97" />
+          <Patch Number="098" Name="6502" ProgramChange="98" />
+          <Patch Number="099" Name="Maximilian" ProgramChange="99" />
+  			</PatchNameList>
+  		</PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>
